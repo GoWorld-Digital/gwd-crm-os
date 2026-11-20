@@ -19,4 +19,6 @@ This repository contains a CRM and WhatsApp-oriented sales product codebase deri
 
 Portfolio status and formal selection belong to [gwd-venture-portfolio](https://github.com/GoWorld-Digital/gwd-venture-portfolio). Governance, autonomy and security requirements belong to [gwd-venture-studio](https://github.com/GoWorld-Digital/gwd-venture-studio).
 
+The related [gwd-crm-os PR #1](https://github.com/GoWorld-Digital/gwd-crm-os/pull/1) documents a staging integration and MIT attribution; it remains open and is not a production approval. Review it together with [gwd-core PR #19](https://github.com/GoWorld-Digital/gwd-core/pull/19), where inbound adapter authentication and authorization findings remain open.
+
 This note records classification only; it does not approve launch, ownership, migration or external commercial claims.
