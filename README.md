@@ -1,3 +1,5 @@
+> **GWD GENESIS — REPOSITORY STATUS (21/11/2026): CANDIDATE / NOT AN APPROVED VENTURE.** This is a technical fork of the upstream [DeskcommCRM](https://github.com/melgarafael/DeskcommCRM), whose original documentation and license/attribution are retained below. Do not interpret upstream marketing, deployment commands, brands, badges, CI or screenshots as GWD production readiness, approved ownership, deployed service or authorization to install on GWD infrastructure. Any GWD pilot requires a separate mandate, tenant isolation, licensing/security review and synthetic data. [Current organizational alignment](https://github.com/GoWorld-Digital/.github/blob/main/profile/AGENT-ALIGNMENT.md) · [Venture Portfolio](https://github.com/GoWorld-Digital/gwd-venture-portfolio) · [CRM adapter candidate](https://github.com/GoWorld-Digital/gwd-core/pull/19).
+
 <div align="center">
 
 🇧🇷 Português · [🇺🇸 English](README.en.md) · [🇪🇸 Español](README.es.md)
